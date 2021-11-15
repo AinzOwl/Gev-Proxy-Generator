@@ -42,7 +42,7 @@ ps. if you are installing in a server or vps, you'll need php-curl and php-xml
   }
 ]
 ```
-/ [Get Free Server](https://discord.gg/wsSz5RSUGV) / [iDev](https://idev.pw) / [0x](https://0x.fit)
+[Live Demo](https://proxy.apis.rip/) / [Get Free Server](https://discord.gg/wsSz5RSUGV) / [iDev](https://idev.pw) / [0x](https://0x.fit)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
