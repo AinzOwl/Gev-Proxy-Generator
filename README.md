@@ -9,7 +9,7 @@ anyway first you need to upload pr.php and get its link, since you'll be using i
 
 ```php
 
-$prphp = 'https://anicdn.xyz/pr.php';
+$prphp = 'domain.tld/pr.php';
 
 ```
 just edit it with your pr.php location and then upload proxy.php and it should work :)
